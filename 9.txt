@@ -1,1 +1,2 @@
 line one of file
+line2
