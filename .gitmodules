@@ -1,0 +1,3 @@
+[submodule "prdRel"]
+	path = prdRel
+	url = https://github.com/brcmtony/prdRel.git
